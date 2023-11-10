@@ -22,4 +22,4 @@ public class PlayThatNote {
 
 }
 //Run java PlayThatNote {Tone Frequency(hz)} {time in seconds}
-//java PlayThatNote 440.0 3.0 (Plays )
+//java PlayThatNote 440.0 3.0 (Plays A note for 3 seconds)
